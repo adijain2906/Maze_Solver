@@ -14,6 +14,7 @@ int ox,oy,k=-1;
 /*
    '@' is the final point
    '.' represents spaces that are walkable
+   '#' represents walls  
    Capital Letters represents the Doors to which
    the corresponding small letters are the keys
    For eg. a will open the door A, b will open the door B
