@@ -9,3 +9,5 @@ Then the maze is entered with the help of the following characters:
 - Small letters are the keys to the corresponding Capital Letter Doors
 
 A sample maze is commented in the code.
+
+Please make according changes to C++ version, this code will work in Turbo C++.
