@@ -21,6 +21,16 @@ int ox,oy,k=-1;
    and so on...
 */
 
+/*
+	Sample Maze:
+	
+	....##
+	..#a#@
+	..###.
+	..A...
+
+*/
+
 
 void refresh(int n,int m)
 {
